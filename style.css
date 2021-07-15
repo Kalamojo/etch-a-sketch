@@ -1,0 +1,23 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#group {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.grids {
+    display: inline-block;
+    flex: 1 0 25%;
+    background-color: gold;
+}
+
+
